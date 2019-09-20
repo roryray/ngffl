@@ -1,0 +1,55 @@
+{
+    "events":[
+    {
+        "id":1,
+		"name":"LGBT Sports Panel & Mixer",
+        "date":"Tuesday, Oct. 8th | 6:30pm - 11pm",
+        "location":"Boxers Chelsea",
+        "address":"37 W 20th St, New York, NY 10011",
+        "desc":"The NYGFL along with NGFFL will be hosting a Though Panel with some of the most influential LGBT Athletes in the game. Come down to Boxers Chelsea to listen to a conversation on how being LGBT impacted them as an athlete. Then stick around to mix and mingle with the local LGBT local sports leagues!"
+    },
+    {
+        "id":2,
+		"name":"Pre-Tournament Meet N Greet",
+        "date":"Wednesday, Oct. 9th | 6:30pm -",
+        "location":"Gym Sportbar Chelsea",
+        "address":"167 8th Ave, New York, NY 10011",
+        "desc":"Let's kick off Gay Bowl XIX before we officlay get the party started with long time local sponsor GYM Bar! For all those arriving early, come make the most of your trip, meet the National Board, NYGFL Board and the people that will put on one of the greatest tournaments in the past 19 years, the Gay Bowl XIX Host Committe! Party kicks off at 7pm with drink specials all night long and make sure you look at the screens because we will be showing the documentary Flag Football! "
+    },
+    {
+        "id":3,
+		"name":"Gay Bowl XIX Opening Party",
+        "date":"Thursday, Oct. 10th | 7pm - 11pm",
+        "location":"Blackbox at the Playboy Club - Times Square",
+        "address":"512 West 42nd Street, New York, NY 10036",
+        "desc":"Join us as we officially kick off Gay Bowl XIX in New York City at the fabulous Black Box at The Playboy Club. Mix and mingle with men and women from across the country while having some of the best cocktails in the city! Enjoy a burlesque performance and a show from the nights host, Pixie Aventura! The National Board will also be on hand for some very exciting announcements! Free admission with the official Gay Bowl XIX wrist band $10 without."
+    },
+    {
+        "id":1,
+		"name":"LGBT Sports Panel & Mixer",
+        "date":"Tuesday, Oct. 8th | 6:30pm - 11pm",
+        "location":"Boxers Chelsea",
+        "address":"37 W 20th St, New York, NY 10011",
+        "desc":"The NYGFL along with NGFFL will be hosting a Though Panel with some of the most influential LGBT Athletes in the game. Come down to Boxers Chelsea to listen to a conversation on how being LGBT impacted them as an athlete. Then stick around to mix and mingle with the local LGBT local sports leagues!"
+    },
+    {
+        "id":1,
+		"name":"LGBT Sports Panel & Mixer",
+        "date":"Tuesday, Oct. 8th | 6:30pm - 11pm",
+        "location":"Boxers Chelsea",
+        "address":"37 W 20th St, New York, NY 10011",
+        "desc":"The NYGFL along with NGFFL will be hosting a Though Panel with some of the most influential LGBT Athletes in the game. Come down to Boxers Chelsea to listen to a conversation on how being LGBT impacted them as an athlete. Then stick around to mix and mingle with the local LGBT local sports leagues!"
+    },
+    {
+        "id":1,
+		"name":"LGBT Sports Panel & Mixer",
+        "date":"Tuesday, Oct. 8th | 6:30pm - 11pm",
+        "location":"Boxers Chelsea",
+        "address":"37 W 20th St, New York, NY 10011",
+        "desc":"The NYGFL along with NGFFL will be hosting a Though Panel with some of the most influential LGBT Athletes in the game. Come down to Boxers Chelsea to listen to a conversation on how being LGBT impacted them as an athlete. Then stick around to mix and mingle with the local LGBT local sports leagues!"
+    }
+	
+	
+]
+    
+}
